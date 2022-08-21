@@ -88,7 +88,6 @@ public class Main {
                     } catch (Exception e) {
                         System.out.println("Your typing is wrong, please try again");
                     }
-
                 }
             }
         }

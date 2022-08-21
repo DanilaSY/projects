@@ -32,6 +32,5 @@ public class Queen extends ChessPiece {
             isQueenAttack = true;
             return true;
         } else return false;
-
     }
 }

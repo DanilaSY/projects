@@ -38,6 +38,5 @@ public class Pawn extends ChessPiece {
             isPawnAttack = true;
             return true;
         } else return false;
-
     }
 }

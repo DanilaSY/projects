@@ -24,6 +24,5 @@ public class Bishop extends ChessPiece {
             isBishopAttack = true;
             return true;
         } else return false;
-
     }
 }

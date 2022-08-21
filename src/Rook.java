@@ -28,6 +28,5 @@ public class Rook extends ChessPiece {
             isRookAttack = true;
             return true;
         } else return false;
-
     }
 }
